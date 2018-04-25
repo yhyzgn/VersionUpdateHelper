@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NumberProgressBar">
+        <attr name="npb_bar_height" format="dimension|reference" />
+        <attr name="npb_bar_color" format="color|reference" />
+        <attr name="npb_progress" format="float" />
+        <attr name="npb_progress_color" format="color|reference" />
+        <attr name="npb_progress_format_point" format="integer" />
+        <attr name="npb_text_box_padding_left_right" format="dimension|reference" />
+        <attr name="npb_text_box_padding_top_bottom" format="dimension|reference" />
+        <attr name="npb_text_box_inner_color" format="color|reference" />
+        <attr name="npb_text_box_border_width" format="dimension|reference" />
+        <attr name="npb_text_box_border_color" format="color|reference" />
+        <attr name="npb_text_size" format="dimension|reference" />
+        <attr name="npb_text_color" format="color|reference" />
+    </declare-styleable>
+</resources>
