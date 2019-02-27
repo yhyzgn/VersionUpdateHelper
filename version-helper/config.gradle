@@ -1,0 +1,26 @@
+ext {
+    pkg = [
+            groupId   : 'com.yhy.helper',
+            artifactId: 'version-update',
+            version   : '1.0.0',
+            desc      : 'Helper what check apk update, and startDownload the apk which newest version.'
+    ]
+
+    developer = [
+            id   : 'yhyzgn',
+            name : 'yhyzgn',
+            email: 'yhyzgn@gmail.com'
+    ]
+
+    user = [
+            org: 'yhyzgn'
+    ]
+
+    cvs = [
+            url: 'https://github.com/yhyzgn/VersionUpdateHelper'
+    ]
+
+    doc = [
+            title: 'Doc for VersionUpdate'
+    ]
+}
